@@ -1,0 +1,39 @@
+{
+    "Category": "NVIDIA", 
+    "FileVersion": 3, 
+    "DocsURL": "", 
+    "Modules": [
+        {
+            "WhitelistPlatforms": [
+                "Win64"
+            ], 
+            "Type": "Runtime", 
+            "Name": "OmniverseAudioMixer", 
+            "LoadingPhase": "Default"
+        }, 
+        {
+            "WhitelistPlatforms": [
+                "Win64"
+            ], 
+            "Type": "Runtime", 
+            "Name": "OmniverseLiveLink", 
+            "LoadingPhase": "Default"
+        }
+    ], 
+    "MarketplaceURL": "", 
+    "CanContainContent": true, 
+    "Installed": true, 
+    "CreatedBy": "NVIDIA", 
+    "Version": 1, 
+    "VersionName": "202.0.14.d9c46967", 
+    "Plugins": [
+        {
+            "Enabled": true, 
+            "Name": "LiveLink"
+        }
+    ], 
+    "FriendlyName": "NVIDIA Omniverse Audio2Face LiveLink", 
+    "SupportURL": "https://www.nvidia.com", 
+    "CreatedByURL": "https://www.nvidia.com", 
+    "Description": "Live Link Connection for receiving live Audio2Face facial animation."
+}
